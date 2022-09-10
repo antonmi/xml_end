@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<CATALOG>
+    <CD id="1">
+        <TITLE>Empire Burlesque</TITLE>
+        <ARTIST>Bob Dylan</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Columbia</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>1985</YEAR>
+    </CD>
+    <CD id="2">
+        <TITLE>Hide your heart</TITLE>
+        <ARTIST>Bonnie Tyler</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </CD>
+    <CD id="3">
+        <TITLE>Greatest Hits</TITLE>
+        <ARTIST>Dolly Parton</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>RCA</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1982</YEAR>
+    </CD>
+    <CD id="4">
+        <TITLE>Still got the blues</TITLE>
+        <ARTIST>Gary Moore</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Virgin records</COMPANY>
+        <PRICE>10.20</PRICE>
+        <YEAR>1990</YEAR>
+    </CD>
+    <CD id="5">
+        <TITLE>Eros</TITLE>
+        <ARTIST>Eros Ramazzotti</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>BMG</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1997</YEAR>
+    </CD>
+</CATALOG>
